@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/jarred-n/AppletsBe#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "koa": "^2.11.0",
     "koa-bodyparser": "^4.2.1",
